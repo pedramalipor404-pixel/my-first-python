@@ -1,0 +1,14 @@
+# My First GitHub Python File
+print("=" * 40)
+print("Hello from GitHub!")
+print("=" * 40)
+
+def welcome(name):
+    return f"Welcome {name} to Python programming!"
+
+# Example usage
+print(welcome("Pedram"))
+print("2 + 2 =", 2 + 2)
+print("Python is awesome!")
+
+print("=" * 40)
